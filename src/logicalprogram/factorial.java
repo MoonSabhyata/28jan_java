@@ -1,4 +1,4 @@
-package logicalprogram;
+	package logicalprogram;
 
 public class factorial {
 
